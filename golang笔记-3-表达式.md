@@ -13,6 +13,7 @@ for range , go goto defer , switch case default fallthrough
 
 package import , func struct return map select
 ```
+<!--more-->
 ### 流程控制
 #### if .. else ..
 

@@ -12,7 +12,7 @@ http://maven.apache.org/download.cgi
 
 ### 解压
 解压到 /usr/local   重命名为maven
-
+<!--more-->
 
 ### 新建（如无）.bash_profile
 编辑内容：

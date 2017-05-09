@@ -18,7 +18,7 @@ type stringStruct struct{
 
 len返回的是数组的字节长度。
 
-
+<!--more-->
 ```
 func main(){
     s := "a"

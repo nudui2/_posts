@@ -21,6 +21,7 @@ top: true
     "deviceid" : "E96B0235-F60C-49F4-B2F9-F1B1041C7E51"（设备号）
 }
 ```
+<!--more-->
 ```
 "auth":{
     "auth": "audbbiuf7q74asdh8fa0s9dqjashdugfasd",（用户唯一标识，如有则认为已登录）

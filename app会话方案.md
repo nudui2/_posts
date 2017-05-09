@@ -8,7 +8,7 @@ top: true
 ### 与web开发不同点
 - web中有浏览器角色，保持用户登录状态可以根据cookie、sessionid等策略来实现。
 - 而app不能（或不方便、不能自定义内容），开发者需要进行面向app的模拟session实现。
-    
+    <!--more-->
 
 ---
 

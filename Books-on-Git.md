@@ -6,7 +6,7 @@ categories: 资源
 ---
 ### Go入门指南
 - [https://github.com/nudui/the-way-to-go_ZH_CN](https://github.com/nudui/the-way-to-go_ZH_CN)
-
+<!--more-->
 ### Go Web编程
 - [https://github.com/astaxie/build-web-application-with-golang/tree/master/zh](https://github.com/astaxie/build-web-application-with-golang/tree/master/zh)
 

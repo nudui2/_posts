@@ -10,7 +10,7 @@ categories: 资源
 - 《轻松学算法》。
 - https://github.com/irfen
 - http://irfen.me
-
+<!--more-->
 ### 无闻
 - golang
 - GIT：https://github.com/Unknwon

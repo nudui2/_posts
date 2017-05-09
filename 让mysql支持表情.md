@@ -13,7 +13,7 @@ default-character-set = utf8mb4
 
 [mysql] 
 default-character-set = utf8mb4
-
+<!--more-->
 [mysqld] 
 character-set-client-handshake = FALSE 
 character-set-server = utf8mb4 

@@ -11,7 +11,7 @@ gov docs : https://beego.me
 ### sublime
 
 mac环境下快速启动工作目录
-
+<!--more-->
 
 ```
 rm /usr/local/bin/subl

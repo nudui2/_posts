@@ -15,7 +15,7 @@ top: true
 - 参数t：时间戳
 - 参数mobile：接收短信验证码的手机
 - http/1.1 : http协议
-
+<!--more-->
 圈2：
 - cookie：该团队应该是原做web，习惯于cookie、session的模式（当然，这个路子是正确的，只是这个名字...暴露了自己的历史包袱）。在app中通过在header中添加参数来实现。此处与本题无关。
 
