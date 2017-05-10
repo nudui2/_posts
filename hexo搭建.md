@@ -2,7 +2,7 @@
 title: 多客户端使用hexo方案
 date: 2017-05-10 10:57:16
 tags: [hexo]
-categories: [hexo]
+categories: [hexo,jack]
 ---
 
 ### 痛点
