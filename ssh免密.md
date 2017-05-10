@@ -1,7 +1,7 @@
 ---
 title: ssh免密
 date: 2016-12-04 00:00:50
-tags: ssh
+tags: [jack,ssh]
 ---
 ### ssh免密登录
 1. 将本地.ssh目录下的id_rsa.pub文件内容拷贝。

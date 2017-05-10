@@ -2,7 +2,7 @@
 title: tomcat加载两次spring
 date: 2016-07-16 15:57:16
 tags: [tomcat,spring,疑难杂症]
-categories: 疑难杂症
+categories: [疑难杂症,jack]
 ---
 
 ### 1，为了达到通过ip：端口进行访问 ，做了如下配置：
